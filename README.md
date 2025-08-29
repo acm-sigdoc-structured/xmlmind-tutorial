@@ -1,2 +1,2 @@
 # xmlmind-tutorial
-DITA source files in support of the ACM SIGDOC tutorial on using the XMLMind Editor.  
+DITA source files in support of the ACM SIGDOC tutorial ACM-014 XMLMind Editor Quickstart.  
